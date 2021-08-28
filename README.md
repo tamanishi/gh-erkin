@@ -1,6 +1,6 @@
 # gh-erkin
 
-Shows gherkin
+shows a gherkin.
 
 ## Usage
 
